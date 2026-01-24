@@ -33,8 +33,8 @@
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2024-manoj&theme=radical)
+## 📈 Contribution Activity
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=2024-manoj&theme=github-compact)
 
 ---
 
