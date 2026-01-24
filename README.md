@@ -32,9 +32,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2024-manoj&layout=compact&theme=radical)
 
 ---
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2024-manoj&theme=github-compact" width="70%" />
+</div>
 
-## 📈 Contribution Activity
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=2024-manoj&theme=github-compact)
 
 ---
 
