@@ -27,17 +27,21 @@
 
 ---
 
-## 📊 GitHub Stats
-![Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2024-manoj&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2024-manoj&layout=compact&theme=radical)
+## 📊 GitHub Analytics
 
----
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2024-manoj&theme=github-compact" width="70%" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=2024-manoj&show_icons=true&theme=radical"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2024-manoj&layout=compact&theme=radical"/>
+    </td>
+  </tr>
+</table>
 
 
----
+
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kc-2636a239a/)
