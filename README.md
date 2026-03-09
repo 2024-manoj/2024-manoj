@@ -53,8 +53,22 @@
 > **“Code every day. Improve every day. Success will follow.”**
 
 <div align="center">
+  
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
   <br/><br/>
   <b>Namaste 🙏 — Welcome to my GitHub Profile</b>
+</div>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=2024-manoj&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=2024-manoj&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi001-q&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
 </div>
 
