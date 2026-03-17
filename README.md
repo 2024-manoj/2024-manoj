@@ -72,11 +72,7 @@
   <img src="https://streak-stats.demolab.com/?user=2024-manoj&theme=radical&hide_border=true" />
 </div>
 
-## 📈 Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2024-manoj&theme=react-dark&hide_border=true&area=true" />
-</div>
 
 
 
@@ -87,16 +83,10 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
+  <i>Let's connect and build something amazing together!</i>
+
 
 <br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-  
-  <h3>🙏 Namaste — Welcome to my GitHub Profile</h3>
-  
-  <i>Let's connect and build something amazing together!</i>
-</div>
 
 ## 🧠 Profile Visitors
 
