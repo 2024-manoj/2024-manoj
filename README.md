@@ -88,11 +88,7 @@
 
 <br>
 
-## 🧠 Profile Visitors
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=2024-manoj&label=Profile%20Views&color=blue&style=flat-square" />
-</div>
 
 ---
 
