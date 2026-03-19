@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38C2F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Computer+Science+Student;React+%7C+Node.js+Developer;Problem+Solver+%26+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38C2F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Computer+Science+Student;React+%7C+Node.js+Developer;PProblem+Solver+%26+Tech+Enthusiast" />
 </div>
 
 ## 👨‍💻 About Me
