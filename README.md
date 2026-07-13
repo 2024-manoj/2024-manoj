@@ -30,16 +30,17 @@ class ManojKatwal:
         self.education = "CS Student @ Itahari International College"
 
         self.current_focus = [
-            "RojgarSetu Job Portal",
-            "Java Full Stack",
-            "React Projects",
-            "Spring Boot APIs"
+            "Learning JS in Depth",
+            "Learning React.js in Depth",
+            "Learning Node.js & Express.js in Depth",
+            "Learning Moongoose in Depth",
         ]
 
         self.goal = "Build scalable and impactful software"
 
     def mantra(self):
         return "Code. Break. Fix. Learn. Repeat."
+                 
 
 
 me = ManojKatwal()
