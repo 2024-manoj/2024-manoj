@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 👨‍💻 Passionate Full Stack Developer from Nepal 🇳🇵
+### 👨‍💻 Passionate Full Stack Developer from Nepal & Full Berojgar 🇳🇵
 
 💡 Turning ideas into real-world software solutions
 
