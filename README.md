@@ -84,7 +84,7 @@ Code. Break. Fix. Learn. Repeat.
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 100 days of Coding Challenge 
 
 <div align="center">
 
