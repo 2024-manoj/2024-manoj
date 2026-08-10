@@ -88,7 +88,7 @@ Code. Break. Fix. Learn. Repeat.
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=manojctrl&theme=radical&hide_border=true&background=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=manoj-katuwal&theme=radical&hide_border=true&background=2e3440)
 
 </div>
 
